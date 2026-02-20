@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IPOLIPOL&layout=donut)
-
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IPOLIPOL&layout=donut)
 
 <!--
@@ -17,4 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Visit this repo for source
+https://github.com/pranesh-2005/github-readme-stats-fast
 -->
