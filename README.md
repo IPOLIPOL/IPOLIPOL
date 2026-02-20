@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IPOLIPOL&layout=donut)
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IPOLIPOL&layout=donut)
+
 <!--
 **IPOLIPOL/IPOLIPOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
