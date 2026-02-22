@@ -1,4 +1,4 @@
-## Hi there 👋
+Systems architect in engineering, exploring knowledge-based engineering, semantic modeling, and automation.  
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IPOLIPOL&layout=donut)
 
