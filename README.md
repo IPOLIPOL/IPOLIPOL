@@ -2,10 +2,9 @@ Systems architect in engineering, exploring knowledge-based engineering, semanti
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IPOLIPOL&layout=donut)
 
-**IPOLIPOL** is my pseudonym and brand on GitHub.
-My real name is Ildar Polyakov (you can find my full CV [here](https://github.com/IPOLIPOL/my_cv)).
-**IPOLIPOL** is the pseudonym and brand of **Ildar Polyakov**.
+**IPOLIPOL** is the pseudonym of **Ildar Polyakov**.  
 You can find my full CV [here](https://github.com/IPOLIPOL/my_cv).
+All repositories under this account are developed and maintained by me.
 <!--
 **IPOLIPOL/IPOLIPOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
