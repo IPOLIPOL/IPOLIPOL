@@ -4,6 +4,8 @@ Systems architect in engineering, exploring knowledge-based engineering, semanti
 
 **IPOLIPOL** is my pseudonym and brand on GitHub.
 My real name is Ildar Polyakov (you can find my full CV [here](https://github.com/IPOLIPOL/my_cv)).
+**IPOLIPOL** is the pseudonym and brand of **Ildar Polyakov**.
+You can find my full CV [here](https://github.com/IPOLIPOL/my_cv).
 <!--
 **IPOLIPOL/IPOLIPOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
