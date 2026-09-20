@@ -1,6 +1,6 @@
 Systems architect in engineering, exploring knowledge-based engineering, semantic modeling, and automation.  
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IPOLIPOL&layout=donut&langs_count=10)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IPOLIPOL&layout=donut&langs_count=15)
  
 You can find my full CV [here](https://github.com/IPOLIPOL/my_cv).
 All repositories under this account are developed and maintained by me.
